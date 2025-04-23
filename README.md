@@ -19,7 +19,7 @@ Seamlessly connect user queries to external APIs — no heavy frameworks require
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/openai-function-caller.git
+   git clone https://github.com/Shasha0072/openai-function-caller.git
    cd openai-function-caller
    ```
 
